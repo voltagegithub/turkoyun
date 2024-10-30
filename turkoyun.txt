@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<!-- saved from url=(0021)https://turkoyun.net/ -->
+<html lang="tr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+<link rel="icon" href="favicon adresi" type="image/x-icon" />
+		
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: black;
+            color: white;
+            text-align: center;
+        }
+        h1 {
+            font-size: 36px;
+        }
+        p {
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>turkoyun.net erişime kapatılmıştır.</h1>
+        <p>turkoyun.net has been shut down.</p>
+    </div>
+
+</body></html>
